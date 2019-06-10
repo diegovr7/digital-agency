@@ -16,7 +16,7 @@ Version 1.0.0
  # External Resources
 <ul>
   <li>Ionic Icons (https://ionicons.com/)</li>
-  <li>Software desk from <a href="https://unsplash.com/">Unsplash</a></li>
+  <li>Hero image by <a href="https://unsplash.com/@squareinc/collections">Square</a> from <a href="https://unsplash.com/">Unsplash</a></li>
   <li>Person one by <a href="https://unsplash.com/@erik_lucatero">Erik Lucatero</a> from <a href="https://unsplash.com/">Unsplash</a></li>
   <li>Person two by <a href="https://unsplash.com/@matheusferrero">Matheus Ferrero
 </a> from <a href="https://unsplash.com/">Unsplash</a></li>
