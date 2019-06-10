@@ -1,6 +1,6 @@
 # Digital Agency Template
 
-<p>Smart Agency is a one page responsive Bootstrap 4 template. This is a free open source theme, you can use our theme for any purpose, even commercially.</p>
+<p>Digital Agency is a one page responsive Bootstrap 4 template. This is a free open source theme, you can use our theme for any purpose, even commercially.</p>
 
 Version 1.0.0
 
