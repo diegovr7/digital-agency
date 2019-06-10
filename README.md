@@ -17,12 +17,13 @@ Version 1.0.0
 <ul>
   <li>Ionic Icons (https://ionicons.com/)</li>
   <li>Software desk from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>Person one from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>Person two by <a href="https://unsplash.com/@flopt">Flo Pappert
+  <li>Person one by <a href="https://unsplash.com/@erik_lucatero">Erik Lucatero</a> from <a href="https://unsplash.com/">Unsplash</a></li>
+  <li>Person two by <a href="https://unsplash.com/@matheusferrero">Matheus Ferrero
 </a> from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>Person 3 by <a href="https://unsplash.com/@iiced">
-Hichem Dahmani</a> from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>Google Font <a href="https://fonts.google.com/specimen/Roboto+Mono">Roboto Mono</a></li>
+  <li>Person 3 by <a href="https://unsplash.com/@michaeldam">
+Michael Dam</a> from <a href="https://unsplash.com/">Unsplash</a></li>
+  <li>Google Font <a href="https://fonts.google.com/specimen/Raleway">Raleway</a></li>
+  <li>Google Font <a href="https://fonts.google.com/specimen/Titillium+Web">Titillium Web</a></li>
 </li>
 
  # Bugs and Issues
