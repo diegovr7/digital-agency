@@ -20,8 +20,10 @@ Version 1.0.0
   <li>Person one by <a href="https://unsplash.com/@erik_lucatero">Erik Lucatero</a> from <a href="https://unsplash.com/">Unsplash</a></li>
   <li>Person two by <a href="https://unsplash.com/@matheusferrero">Matheus Ferrero
 </a> from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>Person 3 by <a href="https://unsplash.com/@michaeldam">
+  <li>Person three by <a href="https://unsplash.com/@michaeldam">
 Michael Dam</a> from <a href="https://unsplash.com/">Unsplash</a></li>
+  <li>Blog image one by <a href="https://unsplash.com/@squareinc/collections">Square</a> from <a href="https://unsplash.com/">Unsplash</a></li>
+  <li>Blog image two by <a href="https://unsplash.com/@squareinc/collections">Square</a> from <a href="https://unsplash.com/">Unsplash</a></li>
   <li>Google Font <a href="https://fonts.google.com/specimen/Raleway">Raleway</a></li>
   <li>Google Font <a href="https://fonts.google.com/specimen/Titillium+Web">Titillium Web</a></li>
 </li>
